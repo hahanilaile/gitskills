@@ -5,7 +5,10 @@ aefaweaweawe
 
 
 
+<<<<<<< HEAD
 awefawfawe
 
 
-asddafdssafsd
+=======
+awefawfawe,hahanilaile.
+>>>>>>> dev
